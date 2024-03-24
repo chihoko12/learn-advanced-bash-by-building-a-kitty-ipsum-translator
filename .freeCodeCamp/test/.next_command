@@ -48,3 +48,4 @@ echo $NAME
 echo cn
 echo $NAME
 cat
+cat name.txt
