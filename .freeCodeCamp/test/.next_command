@@ -141,3 +141,5 @@ sed 's/[0-9]/1/' grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man sed
+sed --help
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt
