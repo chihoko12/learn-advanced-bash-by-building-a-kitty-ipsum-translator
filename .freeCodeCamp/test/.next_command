@@ -249,3 +249,6 @@ cat doggy_ipsum_2.txt
 diff cat_ipsum_2.txt doggy_ipsum_2.txt
 diff kitty_ipsum_2.txt doggy_ipsum_2.txt
 diff kitty_ipsum_2.txt doggy_ipsum_2.txt --color
+git remote -v
+git remote set-url origin https://github.com/chihoko12/learn-advanced-bash-by-building-a-kitty-ipsum-translator
+git remote -v
