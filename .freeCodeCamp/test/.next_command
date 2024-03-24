@@ -218,3 +218,5 @@ cat kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
 clear
 ./translate.sh kitty_ipsum_1.txt
+grep 'dogchow' --color
+./translate.sh kitty_ipsum_1.txt
