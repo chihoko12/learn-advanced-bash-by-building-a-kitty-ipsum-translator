@@ -134,3 +134,8 @@ cat name.txt
 __vsc_prompt_cmd_original
 grep --help
 __vsc_prompt_cmd_original
+grep 'meow[a-z]*' kitty_ipsum_1.txt -n
+sed 's/[0-9]/1' grep 'meow[a-z]*' kitty_ipsum_1.txt -n
+sed 's/[0-9]/1/' grep 'meow[a-z]*' kitty_ipsum_1.txt -n
+sed 's/[0-9]/1/' grep -n 'meow[a-z]*' kitty_ipsum_1.txt
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt
