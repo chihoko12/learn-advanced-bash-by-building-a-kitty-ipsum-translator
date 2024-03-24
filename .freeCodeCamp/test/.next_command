@@ -25,3 +25,4 @@ echo hello bash
 ecoh hello bash > stdout.txt
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
+echo hello bash > stdout.txt
