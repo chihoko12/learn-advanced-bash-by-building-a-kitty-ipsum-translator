@@ -79,3 +79,4 @@ wc
 wc --help
 man wc
 wc kitty_ipsum_1.txt -l
+wc kitty_ipsum_1.txt -w
