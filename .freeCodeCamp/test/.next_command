@@ -59,3 +59,4 @@ cat < name.txt
 echo $NAME
 echo cn
 touch script.sh
+chmod +x script.sh
