@@ -68,3 +68,5 @@ echo cu
 ./script.sh 2> stderr.txt
 echo cu
 echo cu
+name.txt
+./script.sh < name.txt
