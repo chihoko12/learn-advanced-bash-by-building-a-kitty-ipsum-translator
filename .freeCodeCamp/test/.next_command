@@ -213,3 +213,6 @@ clear
 ./translate.sh
 ./translate.sh
 ./translate.sh < kitty_ipsum_1.txt
+cat
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
