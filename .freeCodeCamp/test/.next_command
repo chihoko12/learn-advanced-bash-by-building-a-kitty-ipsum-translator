@@ -155,3 +155,10 @@ clear
 grep 'cat[a-z]*' kitty_ipsum_1.txt --color
 echo -e "\nNumber of times cat, cats or catnip appears:" >> kitty_info.txt
 echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
+grep 'cat[a-z]* ' kitty_ipsum_1.txt -n --color
+grep --help
+grep 'cat[a-z]* ' kitty_ipsum_1.txt -o --color
+grep 'cat[a-z]*' kitty_ipsum_1.txt --color
+grep 'cat[a-z]*' kitty_ipsum_1.txt -c
+grep -o 'car[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
