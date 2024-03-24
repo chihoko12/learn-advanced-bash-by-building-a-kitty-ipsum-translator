@@ -107,3 +107,5 @@ grep 'meow' kitty_ipsum_1.txt
 man grep
 grep 'mewo' kitty_ipsum_1.txt --color
 grep 'meow' kitty_ipsum_1.txt --color
+grep --help
+grep 'meow' kitty_ipsum_1.txt --color -n
