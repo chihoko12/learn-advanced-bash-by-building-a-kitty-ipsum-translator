@@ -67,3 +67,4 @@ echo cu
 ./script.sh > stderr.txt
 ./script.sh 2> stderr.txt
 echo cu
+echo cu
